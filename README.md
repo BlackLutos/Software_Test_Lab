@@ -1,3 +1,7 @@
+### Compiler Version
+```
+gcc version 9.4.0 (Ubuntu 9.4.0-1ubuntu1~20.04.1)
+```
 ### Heap out-of-bounds
 ```
 有問題的程式碼
